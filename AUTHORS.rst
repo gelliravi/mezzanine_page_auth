@@ -10,4 +10,4 @@ Development Lead
 Contributors
 ------------
 
-* gelliravi <https://github.com/gelliravi>
+* gelliravi (Gelli Ravikumar) <https://github.com/gelliravi>
